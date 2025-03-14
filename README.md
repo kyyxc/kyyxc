@@ -2,12 +2,10 @@
 
 ![orv-kimcom](https://github.com/user-attachments/assets/370680db-6fe9-4673-a470-03b9f819d3e3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyyxc&hide_progress=true&theme=tokyonight&hide_border=true)
 <!--
 **kyyxc/kyyxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![orv-kimcom](https://github.com/user-attachments/assets/b6050486-9792-4856-96cb-b149a73e0158)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
