@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![orv-kimcom](https://github.com/user-attachments/assets/370680db-6fe9-4673-a470-03b9f819d3e3)
-
 <!--
 **kyyxc/kyyxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
