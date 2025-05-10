@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Tools
 
+<!--
+Tools
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Django_REST-FF1700?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> </p>
+-->
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kyyxc&theme=discord-old-blurple&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
