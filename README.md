@@ -20,6 +20,6 @@
 
 ```txt
 💻 Languages:       Python, JavaScript, Typescript, PHP
-⚙️ Frameworks:      Django, Laravel, Express, React, TailwindCSS
+⚙️ Frameworks:      Django, Laravel, React
 🗃️ Databases:       PostgreSQL, MySQL
 🔧 Tools:           GitHub, NGINX, Postman, Linux
