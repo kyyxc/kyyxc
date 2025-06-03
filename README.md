@@ -1,7 +1,7 @@
 <h1 align="center">Lucky | Student</h1>
 
 <p align="center">
-  <strong>Backend Developer | Smart Infrastructure | Secure by Design</strong><br>
+  <strong>Simple Code | Smart Infrastructure | Secure by Design</strong><br>
   <em>Build what matters.</em>
 </p>
 
