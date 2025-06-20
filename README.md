@@ -19,7 +19,7 @@
 
 
 ```txt
-💻 Languages:       Python, JavaScript, Typescript, PHP
-⚙️ Frameworks:      Django, Laravel, React
+💻 Languages:       Python, GO, JavaScript, Typescript, PHP
+⚙️ Frameworks:      Django, Laravel, Gin, React
 🗃️ Databases:       PostgreSQL, MySQL
-🔧 Tools:           GitHub, NGINX, Postman, Linux
+🔧 Tools:           GitHub, Linux, NGINX, Postman
